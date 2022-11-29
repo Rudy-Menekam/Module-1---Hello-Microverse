@@ -15,6 +15,8 @@
 👤 *Author1*
 
 - GitHub: [@githubhandle](https://github.com/Rudy-Menekam)
+- Twitter: [@githubhandle](https://twitter.com/MenekamR)
+- LinkedIn: [@githubhandle](https://github.com/Rudy-Menekam)
 
 <!-- - GitHub: [@githubhandle](https://github.com/githubhandle)-->
 
