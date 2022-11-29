@@ -16,7 +16,7 @@
 
 - GitHub: [@githubhandle](https://github.com/Rudy-Menekam)
 - Twitter: [@githubhandle](https://twitter.com/MenekamR)
-- LinkedIn: [@githubhandle](https://github.com/Rudy-Menekam)
+- LinkedIn: [@githubhandle](https://www.linkedin.com/in/menekam-rudy/)
 
 <!-- - GitHub: [@githubhandle](https://github.com/githubhandle)-->
 
@@ -24,10 +24,16 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]([../../issues/](https://github.com/Victor-chiemerie/Module-1...HTML-and-CSS/issues)).
+Feel free to check the [issues page]([../../issues/](https://github.com/Rudy-Menekam/Module-1---Hello-Microverse.git)).
 
  ## Show your support
 
+If you like thie project give it a star y or leave a review
+
+## Acknowledgments
+
+-I will like to thank the Microverse team for the resources provide as to carry out this task
+-Also other articles read on the internet
 
 ## 📝 License
 
