@@ -1,24 +1,88 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
+
+# 📖 Hello Microverse <a name="about-project"></a>
+
 > This project was done using Html and CSS
 
+**Hello Microverse** is a simple HTML and CSS project with a header,style and linters
 
-## Done With
+
+## 🛠 Built With <a name="built-with"></a>
  
  - HTML
  - CSS
  - linters
+
+### Tech Stack <a name="tech-stack"></a>
+
+> This project was build with the following stack
+
+<details>
+  <summary>HTML</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/html_headings.asp">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/tags/tag_hn.asp">CSS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Linters</summary>
+  <ul>
+    <li><a href="https://github.com/microverseinc/linters-config/tree/master/html-css">Linters</a></li>
+  </ul>
+</details>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> To run the project locally follow the steps below
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+  Any IDE of your choice
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+Example commands:
+
+```sh
+  git clone https://github.com/Rudy-Menekam/Module-1---Hello-Microverse.git
+```
+-
+
+### Install
+
+Install this project with:
+
+
+Example command:
+
+```sh
+  cd <project-name>
+  run
+```
 
 ## Authors
 
 👤 *Author1*
 
 - GitHub: [@githubhandle](https://github.com/Rudy-Menekam)
-- Twitter: [@githubhandle](https://twitter.com/MenekamR)
-- LinkedIn: [@githubhandle](https://www.linkedin.com/in/menekam-rudy/)
+- Twitter: [@twitterhandle](https://twitter.com/MenekamR)
+- LinkedIn: [linkedIn](https://www.linkedin.com/in/menekam-rudy/)
 
-<!-- - GitHub: [@githubhandle](https://github.com/githubhandle)-->
 
 ## 🤝 Contributing
 
